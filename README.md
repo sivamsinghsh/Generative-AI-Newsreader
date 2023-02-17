@@ -1,4 +1,4 @@
-# Generative-Animated Avatar Newsreader
+# Generative-AI Newsreader
 
 ## Presenting to you, **Keezum AI Newsreader**! 
 
